@@ -1,5 +1,5 @@
 # DiscordPrime
-A lightweight Python-based Discord bot for Warframe communities
+A lightweight Discord.py-based bot for Warframe communities
 
 # Getting started
 Create a meta.py file with clid, token, name and prefix values in the same folder as warframe.py
